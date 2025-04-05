@@ -3,11 +3,11 @@
 #include <string.h>
 #include <stdlib.h>
 
-#define BSIZE 128    /* buffer size */
+#define BSIZE 128    
 #define NONE -1
 #define EOS '\0'
 
-/* تعريف التوكنز */
+
 #define NUM 256
 #define DIV 257
 #define MOD 258
